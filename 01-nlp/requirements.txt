@@ -1,0 +1,11 @@
+spacy==3.7.4
+en-core-web-sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.7.1/en_core_web_sm-3.7.1-py3-none-any.whl
+sentence-transformers==3.0.1
+openai==1.35.0
+transformers==4.41.2
+torch==2.3.1          # CPU build is fine for inference
+scikit-learn==1.5.0
+matplotlib==3.9.0
+numpy==1.26.4
+python-dotenv==1.0.1
+httpx==0.27.2
