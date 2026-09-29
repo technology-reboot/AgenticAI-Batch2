@@ -1,0 +1,12 @@
+[
+  {"id": 1, "text": "The battery life is absolutely terrible. Dies within 4 hours.", "label": "NEGATIVE"},
+  {"id": 2, "text": "Incredible camera quality, best I have ever used at this price point.", "label": "POSITIVE"},
+  {"id": 3, "text": "Delivery was on time but the packaging was damaged.", "label": "NEUTRAL"},
+  {"id": 4, "text": "Works perfectly for basic tasks. Nothing extraordinary but does the job.", "label": "NEUTRAL"},
+  {"id": 5, "text": "Waste of money. Stopped working after two weeks.", "label": "NEGATIVE"},
+  {"id": 6, "text": "Outstanding build quality and excellent customer support.", "label": "POSITIVE"},
+  {"id": 7, "text": "Ha! Yeah right, 'premium quality' they said. What a joke.", "label": "NEGATIVE"},
+  {"id": 8, "text": "The product is okay. Some features work, others don't.", "label": "NEUTRAL"},
+  {"id": 9, "text": "Exceeded my expectations on every dimension. Highly recommend!", "label": "POSITIVE"},
+  {"id": 10, "text": "Decent value for money but the instructions manual is terrible.", "label": "NEUTRAL"}
+]
