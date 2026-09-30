@@ -1,0 +1,21 @@
+# HCLTech — company profile (training corpus, facts as of FY2025)
+
+HCLTech was founded in 1976 and is headquartered in Noida. C Vijayakumar is the chief executive officer. The company has a strong engineering-and-R&D services mix, supporting organizations that design, build, modernize, and operate technology products and enterprise systems.
+
+Its services include digital engineering, product development, cloud transformation, applications, infrastructure, cybersecurity, data, and artificial intelligence. HCLTech works with clients in technology, financial services, manufacturing, healthcare, life sciences, telecommunications, media, retail, and public services. The combination of engineering depth and managed services helps customers connect product goals with dependable operations.
+
+Engineering teams may contribute to embedded systems, semiconductor programs, software platforms, user experiences, testing, and product lifecycle management. Enterprise teams support application modernization, infrastructure transformation, workplace services, and business process improvement. Programs are typically shaped around a client's architecture, controls, and industry obligations.
+
+The engineering approach links discovery, design, development, testing, and operations across the product lifecycle. Specialists may work alongside a customer's product organization or take responsibility for defined platforms and services. Clear interfaces, quality gates, and security reviews help teams deliver changes without losing sight of reliability.
+
+HCLTech therefore occupies a useful position between product engineering and enterprise operations. Its teams can focus on a discrete component, a complete platform, or a broader transformation program. In each case, technical quality, documentation, and dependable handover are important parts of the delivery model.
+
+HCLTech operates through delivery centers and customer-facing offices across India and international markets. Global teams collaborate across time zones and bring local knowledge to regulated industries. Standard engineering methods, quality practices, and security reviews are used to make work repeatable while allowing teams to adapt to product and customer requirements.
+
+The company emphasizes learning in cloud platforms, software engineering, data, cyber defense, and industry domains. Ecosystem relationships with major technology providers extend its implementation options. Innovation work commonly focuses on practical modernization, automation, intelligent operations, and the dependable use of emerging technology.
+
+Responsible operations include attention to energy and emissions, resource efficiency, inclusion, employee development, and community programs. HCLTech's social initiatives may support education, health, digital skills, and local resilience. Governance processes help connect these activities with business risk management and customer expectations.
+
+This document is a training corpus profile with facts as of FY2025, not a source for live market information. It intentionally omits stock prices, share-price history, market capitalization, sports, cricket, and FIFA World Cup facts. Missing information should remain an explicit retrieval limitation.
+
+HCLTech is particularly useful in this exercise because its 1976 founding year, Noida headquarters, leadership by C Vijayakumar, and strong engineering-and-R&D services mix contrast with the other companies. Those facts support both direct questions and comparisons of service orientation.

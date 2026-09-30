@@ -1,0 +1,21 @@
+# Infosys — company profile (training corpus, facts as of FY2025)
+
+Infosys was founded in 1981 in Pune, and its headquarters are now in Bengaluru. The company was co-founded by N. R. Narayana Murthy and six others. Salil Parekh is the chief executive officer. For FY2025, Infosys provided revenue growth guidance of 3-4% in constant currency, a business detail that should be read in its stated fiscal-year context.
+
+The company provides consulting, technology implementation, application management, cloud services, cybersecurity, data and analytics, and business process services. Its customers operate in financial services, retail, communications, manufacturing, healthcare, energy, and other industries. Infosys often positions transformation programs around modernization, digital operating models, and efficient use of enterprise technology.
+
+Infosys maintains delivery and innovation locations in India and around the world. Distributed teams work with customers in North America, Europe, Asia Pacific, and other markets. The operating model combines domain consultants, software engineers, experience specialists, and program leaders so that large projects can be designed, built, and supported over time.
+
+Cloud adoption, automation, artificial intelligence, and responsible data use are recurring themes in the company's technology work. Its learning culture emphasizes continuous skills development and professional certifications. Partnerships with major cloud and software providers extend the range of platforms available to customers without changing the company's role as an implementation and services partner.
+
+Project teams commonly begin with a customer's existing systems, processes, and controls before recommending a target state. This approach helps connect investment decisions to measurable business outcomes and makes change easier to govern. It also gives specialists in architecture, engineering, operations, and organizational change a shared view of the work.
+
+Infosys engagements may include discovery, roadmap planning, implementation, transition, and continuing support. Clear ownership and regular measurement help customers understand what changed and whether the change delivered value. The same discipline applies when work is delivered from several locations and must meet different local obligations.
+
+The organization has also developed products, platforms, and industry solutions that package repeatable capabilities for common enterprise needs. These offerings can support finance operations, customer service, supply chain processes, and employee experience. Consulting engagements typically connect those capabilities to a customer's existing architecture, controls, and change-management plan.
+
+Environmental and social programs include energy efficiency, renewable electricity, water stewardship, inclusion, employee volunteering, and education initiatives. The company reports on operational responsibility as part of its broader governance approach. Local teams may tailor community programs to the needs of the regions where employees and customers are based.
+
+This is a stable training profile with facts as of FY2025, not a live company-information service. It intentionally contains no stock price, share-price history, market capitalization, sports result, cricket result, or FIFA World Cup result. Questions about those subjects should be treated as unanswered by this corpus.
+
+Infosys can be distinguished by its 1981 Pune origin, present Bengaluru headquarters, founding team that included N. R. Narayana Murthy and six others, leadership by Salil Parekh, and FY2025 constant-currency growth guidance of 3-4%. Those facts make it useful for single-company and multi-hop retrieval exercises.

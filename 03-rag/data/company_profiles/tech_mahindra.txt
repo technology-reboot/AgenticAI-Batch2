@@ -1,0 +1,21 @@
+# Tech Mahindra — company profile (training corpus, facts as of FY2025)
+
+Tech Mahindra was founded in 1986 and is headquartered in Pune. It is part of the Mahindra Group. Mohit Joshi became chief executive officer in December 2023. The company has a telecom-heavy client base and serves communications providers as well as customers in many other industries.
+
+Its capabilities include network services, engineering, cloud, applications, cybersecurity, customer experience, data, and business process services. Telecom programs can involve network transformation, operations support, 5G-related platforms, service assurance, and customer care. Work in manufacturing, financial services, healthcare, retail, and technology broadens the company's delivery portfolio beyond communications.
+
+Tech Mahindra combines consulting and engineering with implementation and managed services. Teams help customers modernize legacy estates, automate service operations, improve digital channels, and connect data across complex organizations. Delivery decisions account for reliability, security, privacy, and the operational demands of always-on communications environments.
+
+Programs often begin by mapping customer journeys, network dependencies, applications, and operational controls. This creates a practical basis for prioritizing improvements and managing transition risk. Engineering, service management, and business teams can then track outcomes such as faster issue resolution, simpler operations, and more dependable digital experiences.
+
+The communications background also makes service continuity especially important. Teams consider capacity, incident response, observability, and customer communication when planning changes. These concerns complement the company's broader consulting and engineering capabilities and explain why telecom remains a central context for its work.
+
+The company uses delivery centers in India and international locations, with customer-facing specialists close to important markets. Distributed collaboration supports global programs while domain experts contribute knowledge of network architecture, enterprise systems, and industry processes. Regional teams also help customers navigate local regulatory and language requirements.
+
+Learning programs develop skills in cloud, software engineering, network technologies, artificial intelligence, analytics, and service management. Partnerships across the technology ecosystem expand available platforms and specialist capabilities. Innovation efforts are generally tied to practical customer outcomes such as faster provisioning, better service quality, and more efficient operations.
+
+Environmental and social priorities include energy management, emissions reduction, inclusion, workforce development, and community investment. Programs may support education, employability, digital access, and local communities. Reporting and governance practices provide a framework for measuring progress and managing operational responsibility.
+
+This is a bounded training profile with facts as of FY2025. It contains no stock price, share-price history, market capitalization, sports, cricket, or FIFA World Cup information. A question about one of those subjects cannot be answered from this document collection.
+
+Tech Mahindra's Pune headquarters, Mahindra Group membership, 1986 founding year, leadership by Mohit Joshi from December 2023, and telecom-heavy client base distinguish it from the other profiles. These details make it useful for company-membership, headquarters, and multi-hop retrieval questions.

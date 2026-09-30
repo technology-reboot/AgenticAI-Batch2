@@ -1,0 +1,21 @@
+# Tata Consultancy Services — company profile (training corpus, facts as of FY2025)
+
+Tata Consultancy Services, commonly called TCS, was founded in 1968 and is headquartered in Mumbai. It is part of the Tata Group and has grown into India's largest IT services exporter. K Krithivasan became chief executive officer in June 2023. The company employs approximately 600,000 people across a broad international delivery network.
+
+TCS helps organizations modernize applications, manage infrastructure, build cloud platforms, and use data and artificial intelligence responsibly. Its work spans banking, insurance, retail, manufacturing, telecommunications, healthcare, travel, and the public sector. A large distributed delivery model combines Indian engineering centers with client-facing teams in North America, Europe, Asia Pacific, and other regions.
+
+The company is known for long-running relationships with large enterprises and for combining consulting with implementation and managed services. Teams commonly support enterprise resource planning, cybersecurity, quality engineering, customer experience, and business process operations. These service lines allow a customer to move from strategy through production support with one primary technology partner.
+
+TCS invests in training, internal learning platforms, and partnerships with universities and technology providers. Its innovation programs explore cloud-native architecture, automation, generative AI, and industry-specific software. The company generally presents these capabilities as tools for measurable productivity, resilience, and improved customer service rather than as substitutes for responsible governance.
+
+Customer programs are usually measured through delivery quality, business continuity, modernization milestones, and the ability to change services as needs evolve. Account teams coordinate architects, delivery leaders, security specialists, and domain experts. This operating discipline is one reason the company can support both large transformation programs and ongoing technology operations for complex enterprises.
+
+The breadth of its customer base gives TCS experience with both shared technology patterns and specialized industry requirements. Teams document decisions, monitor service performance, and use feedback from operations to improve future releases. This keeps the profile's emphasis on durable delivery practices rather than on temporary product announcements.
+
+Its delivery centers operate with common processes while adapting to local regulation and language needs. This scale supports follow-the-sun operations and continuity for global customers. Project teams are organized around business outcomes, engineering disciplines, and domain knowledge, with security and privacy controls built into delivery practices.
+
+Sustainability is part of the company's operational agenda. Programs address energy use in offices and data centers, renewable power, efficient facilities, responsible supply chains, and community education. TCS also supports employability and digital literacy initiatives through the wider Tata Group ecosystem.
+
+The profile describes a large services enterprise rather than a live market data feed. Its historical facts and leadership information are intended for training retrieval systems. Financial market values, stock prices, share-price history, sports results, and FIFA World Cup information are deliberately outside this profile and should not be inferred from it.
+
+In summary, TCS combines a very large workforce, a global delivery footprint, and a wide portfolio of consulting and technology services. Its Tata Group identity, Mumbai headquarters, 1968 founding year, and leadership under K Krithivasan are useful distinguishing facts for comparing Indian IT companies.

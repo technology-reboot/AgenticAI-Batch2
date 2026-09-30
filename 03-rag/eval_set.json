@@ -1,0 +1,82 @@
+[
+  {
+    "id": "q01",
+    "question": "Who is the CEO of TCS?",
+    "gold_companies": [
+      "TCS"
+    ],
+    "type": "single"
+  },
+  {
+    "id": "q02",
+    "question": "When was Infosys founded and by whom?",
+    "gold_companies": [
+      "Infosys"
+    ],
+    "type": "single"
+  },
+  {
+    "id": "q03",
+    "question": "What is Infosys revenue growth guidance for FY2025?",
+    "gold_companies": [
+      "Infosys"
+    ],
+    "type": "single"
+  },
+  {
+    "id": "q04",
+    "question": "In how many countries does Wipro serve clients?",
+    "gold_companies": [
+      "Wipro"
+    ],
+    "type": "single"
+  },
+  {
+    "id": "q05",
+    "question": "Where is HCLTech headquartered?",
+    "gold_companies": [
+      "HCLTech"
+    ],
+    "type": "single"
+  },
+  {
+    "id": "q06",
+    "question": "Which group does Tech Mahindra belong to?",
+    "gold_companies": [
+      "TechMahindra"
+    ],
+    "type": "single"
+  },
+  {
+    "id": "q07",
+    "question": "Compare the founding years of TCS and Infosys",
+    "gold_companies": [
+      "TCS",
+      "Infosys"
+    ],
+    "type": "multi_hop"
+  },
+  {
+    "id": "q08",
+    "question": "Which of these companies is headquartered in Pune?",
+    "gold_companies": [
+      "TechMahindra",
+      "Infosys"
+    ],
+    "type": "multi_hop"
+  },
+  {
+    "id": "q09",
+    "question": "Which company started as a vegetable products business?",
+    "gold_companies": [
+      "Wipro"
+    ],
+    "type": "single"
+  },
+  {
+    "id": "q10",
+    "question": "Who won the FIFA World Cup in 2022?",
+    "gold_companies": [],
+    "type": "out_of_domain"
+  }
+]

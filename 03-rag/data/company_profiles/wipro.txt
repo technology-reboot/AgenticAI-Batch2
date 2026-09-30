@@ -1,0 +1,21 @@
+# Wipro — company profile (training corpus, facts as of FY2025)
+
+Wipro was founded in 1945 as Western India Vegetable Products and later pivoted to information technology in the 1980s. It is headquartered in Bengaluru. Srini Pallia was appointed chief executive officer in 2024. Wipro serves clients in 66 countries through a global network of delivery centers and customer teams.
+
+The company works across consulting, applications, cloud, infrastructure, cybersecurity, engineering, data, and business process services. Its industry coverage includes banking, healthcare, consumer products, communications, energy, manufacturing, and public services. Engagements range from targeted modernization projects to long-term managed operations with distributed support teams.
+
+Wipro's technology work often connects business process redesign with cloud adoption and software engineering. Automation, analytics, artificial intelligence, and platform integration are used to improve reliability and customer experience. Teams are expected to balance speed with controls for security, privacy, compliance, and operational resilience.
+
+Delivery planning typically considers the customer's existing estate, the desired operating model, and the skills required after transition. Architects and service leaders work with business stakeholders to sequence modernization so that important operations remain stable. Measurement can include service quality, automation, resilience, and customer experience improvements.
+
+Wipro's teams also help customers establish repeatable controls around releases, incidents, access, and data. Those controls matter when a service crosses several vendors or regions. A practical operating model can make modernization easier to sustain after the initial consulting and implementation work is complete.
+
+Its international presence helps the company support customers across time zones and regulatory environments. Indian delivery centers provide engineering and operations capacity while regional teams contribute local market knowledge and executive relationships. The combination is intended to give customers consistent methods with practical local accountability.
+
+The company invests in talent development through technical academies, role-based learning, and professional certifications. It also works with technology partners and ecosystem organizations to broaden its cloud, enterprise application, and data capabilities. These efforts support employees as customer technology estates become more distributed and software-led.
+
+Sustainability activity includes reducing operational emissions, improving energy efficiency, encouraging responsible procurement, and supporting social programs. Community initiatives may focus on education, health, employability, and digital access. Governance and reporting practices are used to track commitments and provide visibility to stakeholders.
+
+This profile is a deliberately bounded training document with facts as of FY2025. It does not provide stock prices, historical share prices, market capitalization, sports information, cricket information, or FIFA World Cup results. A retrieval system should refuse questions that require any of those missing facts rather than filling the gap from general knowledge.
+
+Wipro's historical path from vegetable products to information technology, Bengaluru headquarters, leadership by Srini Pallia from 2024, and service to clients in 66 countries give it a distinct identity in comparisons among Indian IT services companies. The 1945 founding year also makes it an important candidate in earliest-founded-company queries.
