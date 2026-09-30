@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What is the annual revenue of TCS for Q1 FY2025?",
+    "ground_truth": "TCS reported revenue of approximately ₹59,748 crore for Q1 FY2025.",
+    "contexts": ["TCS reported Q1 FY2025 revenue of ₹59,748 crore..."]
+  },
+  {
+    "question": "Who is the CEO of Infosys?",
+    "ground_truth": "Salil Parekh is the CEO of Infosys.",
+    "contexts": ["Infosys is led by CEO Salil Parekh..."]
+  },
+  {
+    "question": "Which clients does TCS serve in the banking sector?",
+    "ground_truth": "TCS serves BNP Paribas and other major banks through its banking and financial services division.",
+    "contexts": ["TCS counts BNP Paribas among its major banking clients..."]
+  },
+  {
+    "question": "What are TCS subsidiaries?",
+    "ground_truth": "TCS subsidiaries include TCS iON and Diligenta.",
+    "contexts": ["TCS operates subsidiaries including TCS iON (for SMBs) and Diligenta (for UK insurance)..."]
+  },
+  {
+    "question": "Compare the founding years of TCS and Infosys.",
+    "ground_truth": "TCS was founded in 1968 and Infosys was founded in 1981, making TCS 13 years older.",
+    "contexts": ["TCS was founded in 1968...", "Infosys was established in 1981..."]
+  },
+  {
+    "question": "What is Wipro's primary business segment?",
+    "ground_truth": "Wipro's primary business is IT services and consulting.",
+    "contexts": ["Wipro Limited is primarily an IT services and consulting company..."]
+  },
+  {
+    "question": "What is the revenue guidance given by Infosys for FY2025?",
+    "ground_truth": "Infosys has given revenue growth guidance of 3-4% in USD terms for FY2025.",
+    "contexts": ["Infosys guided for 3-4% revenue growth in USD terms for FY2025..."]
+  },
+  {
+    "question": "Where is HCL Technologies headquartered?",
+    "ground_truth": "HCL Technologies is headquartered in Noida, Uttar Pradesh.",
+    "contexts": ["HCL Technologies has its headquarters in Noida, Uttar Pradesh..."]
+  },
+  {
+    "question": "Who are the major clients of Tech Mahindra?",
+    "ground_truth": "Tech Mahindra serves major clients including British Telecom and AT&T in the telecom segment.",
+    "contexts": ["Tech Mahindra's major clients include British Telecom and AT&T..."]
+  },
+  {
+    "question": "What technology did TCS patent in automated software engineering?",
+    "ground_truth": "This information is not available in the provided documents.",
+    "contexts": []
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "HR-014",
+    "title": "Parental Leave Policy",
+    "text": "Meridian Financial Services grants 26 weeks of paid maternity leave to birthing parents with at least 80 days of service in the preceding twelve months. Non-birthing parents receive 15 working days of paid parental leave, to be taken within six months of the birth or adoption. Adoptive parents of a child below three years of age receive 12 weeks of paid leave. An extension of up to 8 additional weeks may be granted on unpaid basis; extensions are approved by the Head of People Operations and require the reporting manager's written endorsement. Leave does not lapse on transfer between Meridian entities."
+  },
+  {
+    "id": "HR-021",
+    "title": "Remote and Hybrid Work",
+    "text": "Meridian operates a hybrid model. Employees in Bengaluru, Mumbai and Gurugram are expected in office three days per week. Employees whose registered address is more than 60 kilometres from the nearest Meridian office may apply for fully remote status, renewed annually. Remote employees receive a one-time home-office setup allowance of Rs 35,000 and a monthly connectivity allowance of Rs 1,500. Hybrid employees receive the connectivity allowance only. Allowances are taxable as perquisites and are processed through payroll, not expenses."
+  },
+  {
+    "id": "HR-030",
+    "title": "Leave Types and Accrual",
+    "text": "Confirmed employees accrue 1.75 days of earned leave per completed month, to a maximum carry-forward of 45 days. Casual leave is granted at 7 days per calendar year and does not carry forward. Sick leave is granted at 12 days per calendar year; absences beyond three consecutive days require a registered medical practitioner's certificate. Leave encashment is permitted once per financial year, capped at 15 days, and is settled with the March payroll cycle."
+  },
+  {
+    "id": "FIN-007",
+    "title": "Employee Trading and Conflicts of Interest",
+    "text": "All employees must pre-clear personal securities transactions through the Compliance Portal. Pre-clearance is valid for two trading days. Employees in Investment Research, Treasury and Corporate Finance are subject to a 30-day minimum holding period. Trading in any security on the Restricted List is prohibited without exception. The Restricted List is maintained by the Compliance team and refreshed each trading morning. Breaches are escalated to the Chief Compliance Officer and may result in disgorgement of profits."
+  },
+  {
+    "id": "IT-011",
+    "title": "Acceptable Use of Technology",
+    "text": "Meridian-issued devices are for business use. Personal use is tolerated where it does not interfere with duties or introduce risk. Installation of unapproved software is prohibited. Company data must not be uploaded to personal cloud storage or to third-party AI services that have not been assessed by the Data Office. The approved internal assistant is available at assistant.meridian.internal. Data classified Confidential or above may not be entered into any external tool regardless of vendor assurances."
+  },
+  {
+    "id": "HR-045",
+    "title": "Expense and Travel Reimbursement",
+    "text": "Domestic travel is booked through the Meridian travel desk. Economy class is standard for flights under three hours. Employees at Vice President grade and above may book business class for flights over five hours. Per-diem for domestic travel is Rs 2,200 per day in metro cities and Rs 1,600 elsewhere. Claims must be submitted within 30 days of travel completion with original receipts; claims after 45 days require Finance Director approval and are settled at the discretion of Finance."
+  }
+]

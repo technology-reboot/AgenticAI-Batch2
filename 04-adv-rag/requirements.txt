@@ -1,0 +1,19 @@
+# Advanced RAG labs — session 03
+# Covers the LangChain labs (lab1_crag_corrective_rag.py, lab2_adaptive_rag.py,
+# lab3_graph_rag.py) and the lightweight demos under data/ (common.py etc.).
+
+# --- core / shared ---------------------------------------------------------
+python-dotenv==1.0.1
+pydantic>=2.7.0
+openai>=1.35.0
+langchain>=0.3.0
+langchain-core>=0.3.0
+langchain-openai>=0.2.0
+langchain-community>=0.3.0      # FAISS vector store (lab1)
+faiss-cpu>=1.8.0               # lab1 uses FAISS instead of Chroma
+langchain-chroma>=0.1.4        # still used by lab2_adaptive_rag.py and lab3_graph_rag.py
+langchain-text-splitters>=0.3.0
+ddgs>=6.0.0
+
+# --- graph RAG (lab3) ---------------------------------------------------
+networkx>=3.2
