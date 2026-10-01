@@ -1,0 +1,12 @@
+faiss-cpu>=1.8
+langchain>=0.3
+langchain-community
+langchain-openai
+langchain-text-splitters
+langchain-core
+openai
+openai-agents
+python-dotenv
+pandas
+matplotlib
+ddgs

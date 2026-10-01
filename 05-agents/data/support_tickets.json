@@ -1,0 +1,12 @@
+[
+  {"id":"T001","subject":"Cannot login to my account","priority":"HIGH","category":"AUTH","text":"I have been unable to login since yesterday. I reset my password twice but it keeps saying invalid credentials."},
+  {"id":"T002","subject":"Invoice for March is incorrect","priority":"HIGH","category":"BILLING","text":"My invoice for March 2024 shows ₹15,000 but I was quoted ₹12,000 per month. Please correct this immediately."},
+  {"id":"T003","subject":"How do I export data to CSV?","priority":"LOW","category":"GENERAL","text":"I need to export my transaction history to a CSV file for my accountant. Where is this option?"},
+  {"id":"T004","subject":"App is very slow","priority":"MEDIUM","category":"TECHNICAL","text":"The mobile app takes 10-15 seconds to load any page. This started after the last update two days ago."},
+  {"id":"T005","subject":"Wrong charge on my credit card","priority":"HIGH","category":"BILLING","text":"I see a charge of ₹4,500 on my card dated 14 April that I did not authorise. I need this reversed urgently."},
+  {"id":"T006","subject":"Need to upgrade my plan","priority":"LOW","category":"GENERAL","text":"I am currently on the Basic plan. How do I upgrade to Business? What are the differences?"},
+  {"id":"T007","subject":"Data not syncing between devices","priority":"MEDIUM","category":"TECHNICAL","text":"My data on the iPhone app is not syncing with the web version. I have tried logging out and back in."},
+  {"id":"T008","subject":"Bulk import failing","priority":"HIGH","category":"TECHNICAL","text":"I am trying to import 500 records using the bulk import feature. The upload fails at 78% every time with no error message."},
+  {"id":"T009","subject":"Need invoice for GST filing","priority":"MEDIUM","category":"BILLING","text":"I need a GST-compliant invoice with our company GSTIN for Q4 FY2024. The current invoice format is missing GSTIN."},
+  {"id":"T010","subject":"Feature request: dark mode","priority":"LOW","category":"GENERAL","text":"Would love a dark mode option for the web interface. Are there any plans for this?"}
+]
