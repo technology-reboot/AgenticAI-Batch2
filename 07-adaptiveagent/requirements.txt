@@ -1,0 +1,7 @@
+openai==1.35.0
+httpx<0.28  # openai 1.35 passes the `proxies` kwarg removed in httpx 0.28
+python-dotenv==1.0.1
+pandas==2.2.2
+matplotlib==3.9.0
+numpy==1.26.4
+scikit-learn==1.5.0
