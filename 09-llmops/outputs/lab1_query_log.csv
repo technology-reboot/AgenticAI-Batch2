@@ -1,0 +1,121 @@
+window,phase,query_type,query,answer,faithfulness,latency_ms,cost_usd
+0,clean,in_domain,Who is the CEO of TCS?,"The CEO of TCS is K Krithivasan, who took on the role in June 2023.",1.0,3350.740100024268,0.00011326000000000001
+0,clean,in_domain,When was Infosys founded and by whom?,Infosys was founded in 1981 by N. R. Narayana Murthy and six others.,1.0,1447.1739999717101,0.00011673
+0,clean,in_domain,What is Infosys revenue growth guidance for FY2025?,Infosys provided a revenue growth guidance of 3-4% in constant currency for FY2025.,1.0,2458.5200999863446,0.00011754
+0,clean,in_domain,In how many countries does Wipro serve clients?,Wipro serves clients in 66 countries.,1.0,1507.8380000195466,9.889999999999999e-05
+0,clean,in_domain,Where is HCLTech headquartered?,"HCLTech is headquartered in Noida, India.",1.0,1501.226200023666,9.538999999999999e-05
+0,clean,in_domain,Which group does Tech Mahindra belong to?,Tech Mahindra belongs to the Mahindra Group.,1.0,1157.5581999495625,0.0001121
+0,clean,in_domain,Compare the founding years of TCS and Infosys.,"Tata Consultancy Services (TCS) was founded in 1968, while Infosys was established in 1981. This makes TCS 13 years older than Infosys.",0.6666666666666666,1596.5224000392482,0.00012367
+0,clean,in_domain,Which of these companies is headquartered in Pune?,Tech Mahindra is headquartered in Pune.,1.0,1431.865699996706,0.00011448
+0,clean,in_domain,Which company started as a vegetable products business?,"Wipro started as a vegetable products business, originally founded in 1945 as Western India Vegetable Products before transitioning to information technology in the 1980s.",1.0,1399.9765000189655,0.00011748
+0,clean,in_domain,Where is Wipro headquartered?,"Wipro is headquartered in Bengaluru, India.",1.0,1065.4726000502706,9.821999999999999e-05
+0,clean,in_domain,Who leads HCLTech?,"HCLTech is led by C Vijayakumar, who serves as the chief executive officer.",1.0,1316.4928000187501,0.00010122
+0,clean,in_domain,When did Mohit Joshi become CEO of Tech Mahindra?,Mohit Joshi became the chief executive officer of Tech Mahindra in December 2023.,1.0,1208.951700013131,0.00011952999999999999
+0,clean,in_domain,How many employees does TCS have?,"TCS employs approximately 600,000 people.",1.0,1117.7385000046343,0.00010350999999999999
+0,clean,in_domain,Where is TCS headquartered?,"TCS is headquartered in Mumbai, India.",1.0,1363.2379000191577,9.491999999999999e-05
+0,clean,in_domain,Which company is part of the Tata Group?,Tata Consultancy Services (TCS) is part of the Tata Group.,1.0,1331.5044000046328,0.00010173
+0,clean,in_domain,What is the headquarters of Tech Mahindra?,The headquarters of Tech Mahindra is located in Pune.,1.0,1250.3373000072315,0.00011285
+0,clean,in_domain,Who is the chief executive of Infosys?,The chief executive of Infosys is Salil Parekh.,1.0,1166.4520000340417,0.00011028000000000001
+0,clean,in_domain,Which company was founded in 1945?,Wipro was founded in 1945 as Western India Vegetable Products. It later transitioned to focus on information technology in the 1980s.,1.0,1351.3108000042848,0.00013023
+0,clean,in_domain,What sectors does TCS serve?,"TCS serves a variety of sectors including banking, insurance, retail, manufacturing, telecommunications, healthcare, travel, and the public sector. This diverse customer base allows TCS to address both shared technology patterns and specialized industry requirements effectively.",1.0,1272.9709999985062,0.00012044
+0,clean,in_domain,Which company was founded in 1976?,HCLTech was founded in 1976.,0.0,1278.3542000106536,0.00011328
+1,clean,in_domain,Who is the CEO of TCS?,"The CEO of TCS is K Krithivasan, who took on the role in June 2023.",1.0,1513.981900003273,0.00011326000000000001
+1,clean,in_domain,When was Infosys founded and by whom?,Infosys was founded in 1981 by N. R. Narayana Murthy and six others.,1.0,1636.3147999509238,0.00011673
+1,clean,in_domain,What is Infosys revenue growth guidance for FY2025?,Infosys provided revenue growth guidance of 3-4% in constant currency for FY2025.,1.0,1426.2259000097401,0.00011679
+1,clean,in_domain,In how many countries does Wipro serve clients?,Wipro serves clients in 66 countries.,1.0,1130.2486999775283,9.889999999999999e-05
+1,clean,in_domain,Where is HCLTech headquartered?,"HCLTech is headquartered in Noida, India.",1.0,1083.2888000295497,9.538999999999999e-05
+1,clean,in_domain,Which group does Tech Mahindra belong to?,Tech Mahindra belongs to the Mahindra Group.,1.0,1069.3751000217162,0.0001121
+1,clean,in_domain,Compare the founding years of TCS and Infosys.,"Tata Consultancy Services (TCS) was founded in 1968, while Infosys was established in 1981. This makes TCS 13 years older than Infosys.",0.6666666666666666,1311.772099987138,0.00012367
+1,clean,in_domain,Which of these companies is headquartered in Pune?,Tech Mahindra is headquartered in Pune.,1.0,1279.1397999972105,0.00011448
+1,clean,in_domain,Which company started as a vegetable products business?,"Wipro started as a vegetable products business, originally founded in 1945 as Western India Vegetable Products before transitioning to information technology in the 1980s.",1.0,1997.0769000356086,0.00011748
+1,clean,in_domain,Where is Wipro headquartered?,"Wipro is headquartered in Bengaluru, India.",1.0,1174.8447999707423,9.821999999999999e-05
+1,clean,in_domain,Who leads HCLTech?,"HCLTech is led by C Vijayakumar, who serves as the chief executive officer.",1.0,1537.732099997811,0.00010122
+1,clean,in_domain,When did Mohit Joshi become CEO of Tech Mahindra?,Mohit Joshi became the chief executive officer of Tech Mahindra in December 2023.,1.0,1082.829800026957,0.00011952999999999999
+1,clean,in_domain,How many employees does TCS have?,"TCS employs approximately 600,000 people.",1.0,1130.2439999999478,0.00010350999999999999
+1,clean,in_domain,Where is TCS headquartered?,"TCS is headquartered in Mumbai, India.",1.0,1768.191699986346,9.491999999999999e-05
+1,clean,in_domain,Which company is part of the Tata Group?,Tata Consultancy Services (TCS) is part of the Tata Group.,1.0,1122.2067000344396,0.00010173
+1,clean,in_domain,What is the headquarters of Tech Mahindra?,"The headquarters of Tech Mahindra is located in Pune, India.",1.0,1164.1418000217527,0.00011434999999999999
+1,clean,in_domain,Who is the chief executive of Infosys?,The chief executive of Infosys is Salil Parekh.,1.0,1283.4046999923885,0.00011028000000000001
+1,clean,in_domain,Which company was founded in 1945?,"Wipro was founded in 1945. Initially established as Western India Vegetable Products, it later transitioned to focus on information technology in the 1980s.",1.0,1305.003300018143,0.00013247999999999998
+1,clean,in_domain,What sectors does TCS serve?,"TCS serves a variety of sectors including banking, insurance, retail, manufacturing, telecommunications, healthcare, travel, and the public sector.",1.0,1130.5788999889046,0.00010619000000000001
+1,clean,in_domain,Which company was founded in 1976?,HCLTech was founded in 1976.,0.0,1294.8097999906167,0.00011328
+2,clean,in_domain,Who is the CEO of TCS?,"The CEO of TCS is K Krithivasan, who took on the role in June 2023.",1.0,1550.2873999648727,0.00011326000000000001
+2,clean,in_domain,When was Infosys founded and by whom?,Infosys was founded in 1981 by N. R. Narayana Murthy and six others.,1.0,1271.0718999733217,0.00011673
+2,clean,in_domain,What is Infosys revenue growth guidance for FY2025?,Infosys provided revenue growth guidance of 3-4% in constant currency for FY2025.,1.0,1347.8693999932148,0.00011679
+2,clean,in_domain,In how many countries does Wipro serve clients?,Wipro serves clients in 66 countries.,1.0,973.0970000382513,9.889999999999999e-05
+2,clean,in_domain,Where is HCLTech headquartered?,"HCLTech is headquartered in Noida, India.",1.0,1121.7899000039324,9.538999999999999e-05
+2,clean,in_domain,Which group does Tech Mahindra belong to?,Tech Mahindra belongs to the Mahindra Group.,1.0,1109.4032999826595,0.0001121
+2,clean,in_domain,Compare the founding years of TCS and Infosys.,"Tata Consultancy Services (TCS) was founded in 1968, while Infosys was established in 1981. This makes TCS 13 years older than Infosys.",0.6666666666666666,1339.6311000105925,0.00012367
+2,clean,in_domain,Which of these companies is headquartered in Pune?,Tech Mahindra is headquartered in Pune.,1.0,1137.0312999933958,0.00011448
+2,clean,in_domain,Which company started as a vegetable products business?,"Wipro started as a vegetable products business, originally founded in 1945 as Western India Vegetable Products before transitioning to information technology in the 1980s.",1.0,1497.9848999646492,0.00011748
+2,clean,in_domain,Where is Wipro headquartered?,"Wipro is headquartered in Bengaluru, India.",1.0,1235.4679999989457,9.821999999999999e-05
+2,clean,in_domain,Who leads HCLTech?,"HCLTech is led by C Vijayakumar, who serves as the chief executive officer.",1.0,1561.1615999951027,0.00010122
+2,clean,in_domain,When did Mohit Joshi become CEO of Tech Mahindra?,Mohit Joshi became the chief executive officer of Tech Mahindra in December 2023.,1.0,1165.6333999708295,0.00011952999999999999
+2,clean,in_domain,How many employees does TCS have?,"TCS employs approximately 600,000 people.",1.0,1213.43830000842,0.00010350999999999999
+2,clean,in_domain,Where is TCS headquartered?,"TCS is headquartered in Mumbai, India.",1.0,1551.5004999469966,9.491999999999999e-05
+2,clean,in_domain,Which company is part of the Tata Group?,Tata Consultancy Services (TCS) is part of the Tata Group.,1.0,1339.0547999879345,0.00010173
+2,clean,in_domain,What is the headquarters of Tech Mahindra?,"The headquarters of Tech Mahindra is located in Pune, India.",1.0,1455.67779999692,0.00011434999999999999
+2,clean,in_domain,Who is the chief executive of Infosys?,The chief executive of Infosys is Salil Parekh.,1.0,1073.854999965988,0.00011028000000000001
+2,clean,in_domain,Which company was founded in 1945?,Wipro was founded in 1945 as Western India Vegetable Products. It later transitioned to focus on information technology in the 1980s.,1.0,1155.74109996669,0.00013023
+2,clean,in_domain,What sectors does TCS serve?,"TCS serves a variety of sectors including banking, insurance, retail, manufacturing, telecommunications, healthcare, travel, and the public sector.",1.0,1258.868300006725,0.00010619000000000001
+2,clean,in_domain,Which company was founded in 1976?,HCLTech was founded in 1976.,0.0,1355.202000006102,0.00011328
+3,drift,out_of_domain,Who won the FIFA World Cup in 2022?,"The context does not provide information about sports results, including the FIFA World Cup. Therefore, I cannot answer that question.",1.0,1566.4943999727257,0.00012022
+3,drift,out_of_domain,What is the boiling point of water at sea level?,"The boiling point of water at sea level is 100 degrees Celsius (212 degrees Fahrenheit). This temperature can vary slightly with changes in atmospheric pressure, but at standard atmospheric pressure, it remains consistent.",0.0,2225.1539999851957,0.00013176999999999997
+3,drift,out_of_domain,Give me a recipe for banana bread.,"I'm unable to provide a recipe for banana bread as it falls outside the context of the provided information. However, you can easily find many banana bread recipes online or in cookbooks that detail the ingredients and steps needed to make it.",1.0,2432.9876999836415,0.00014251
+3,drift,out_of_domain,Who wrote the novel Pride and Prejudice?,"The novel ""Pride and Prejudice"" was written by Jane Austen. It was first published in 1813 and is considered one of her most famous works.",0.0,1613.3085999754258,0.00011015
+3,drift,out_of_domain,What is the capital of Australia?,The capital of Australia is Canberra.,0.0,1106.0404000454582,0.00010499000000000001
+3,drift,in_domain,Which group does Tech Mahindra belong to?,Tech Mahindra belongs to the Mahindra Group.,1.0,1186.1264000181109,0.0001121
+3,drift,in_domain,Compare the founding years of TCS and Infosys.,"Tata Consultancy Services (TCS) was founded in 1968, while Infosys was established in 1981. This makes TCS 13 years older than Infosys.",0.6666666666666666,1422.845099994447,0.00012367
+3,drift,in_domain,Which of these companies is headquartered in Pune?,Tech Mahindra is headquartered in Pune.,1.0,1390.2568999910727,0.00011448
+3,drift,in_domain,Which company started as a vegetable products business?,"The company that started as a vegetable products business is Wipro, which was founded in 1945 as Western India Vegetable Products before transitioning to information technology in the 1980s.",1.0,1536.7058999836445,0.00012123
+3,drift,in_domain,Where is Wipro headquartered?,"Wipro is headquartered in Bengaluru, India.",1.0,1084.6966999815777,9.821999999999999e-05
+3,drift,in_domain,Who leads HCLTech?,"HCLTech is led by C Vijayakumar, who serves as the chief executive officer.",1.0,1639.3245999934152,0.00010122
+3,drift,in_domain,When did Mohit Joshi become CEO of Tech Mahindra?,Mohit Joshi became the chief executive officer of Tech Mahindra in December 2023.,1.0,1268.5108000296168,0.00011952999999999999
+3,drift,in_domain,How many employees does TCS have?,"TCS employs approximately 600,000 people.",1.0,1125.3277999931015,0.00010350999999999999
+3,drift,in_domain,Where is TCS headquartered?,"TCS is headquartered in Mumbai, India.",1.0,1109.48849999113,9.491999999999999e-05
+3,drift,in_domain,Which company is part of the Tata Group?,Tata Consultancy Services (TCS) is part of the Tata Group.,1.0,1132.4618000071496,0.00010173
+3,drift,in_domain,What is the headquarters of Tech Mahindra?,"The headquarters of Tech Mahindra is located in Pune, India.",1.0,1244.934500020463,0.00011434999999999999
+3,drift,in_domain,Who is the chief executive of Infosys?,The chief executive of Infosys is Salil Parekh.,1.0,1414.6986000123434,0.00011028000000000001
+3,drift,in_domain,Which company was founded in 1945?,Wipro was founded in 1945 as Western India Vegetable Products. It later transitioned to information technology in the 1980s.,1.0,1289.054099994246,0.00012873000000000002
+3,drift,in_domain,What sectors does TCS serve?,"TCS serves a variety of sectors including banking, insurance, retail, manufacturing, telecommunications, healthcare, travel, and the public sector.",1.0,1116.2465999950655,0.00010619000000000001
+3,drift,in_domain,Which company was founded in 1976?,HCLTech was founded in 1976.,0.0,1314.0092000248842,0.00011328
+4,drift,out_of_domain,Who won the FIFA World Cup in 2022?,"I'm unable to provide information about the FIFA World Cup results, including the winner of the 2022 tournament, as this context does not include sports information.",1.0,1839.3665999756195,0.00012546999999999998
+4,drift,out_of_domain,What is the boiling point of water at sea level?,"The boiling point of water at sea level is 100 degrees Celsius (212 degrees Fahrenheit). This temperature can vary slightly with changes in atmospheric pressure, but at standard atmospheric pressure, it remains consistent.",0.0,1568.4697999968193,0.00013176999999999997
+4,drift,out_of_domain,Give me a recipe for banana bread.,"I'm unable to provide a recipe for banana bread as it falls outside the context of the provided information. However, you can easily find many banana bread recipes online or in cookbooks that detail the ingredients and steps needed to make it.",1.0,1630.0026000244543,0.00014251
+4,drift,out_of_domain,Who wrote the novel Pride and Prejudice?,"The novel ""Pride and Prejudice"" was written by Jane Austen. It was first published in 1813 and is considered one of her most famous works.",0.0,1854.4549000216648,0.00011015
+4,drift,out_of_domain,What is the capital of Australia?,The capital of Australia is Canberra.,0.0,983.376300020609,0.00010499000000000001
+4,drift,in_domain,Which group does Tech Mahindra belong to?,Tech Mahindra belongs to the Mahindra Group.,1.0,1079.6556000132114,0.0001121
+4,drift,in_domain,Compare the founding years of TCS and Infosys.,"Tata Consultancy Services (TCS) was founded in 1968, while Infosys was established in 1981. This makes TCS 13 years older than Infosys.",0.6666666666666666,1604.3775000143796,0.00012367
+4,drift,in_domain,Which of these companies is headquartered in Pune?,Tech Mahindra is headquartered in Pune.,1.0,1021.2273999932222,0.00011448
+4,drift,in_domain,Which company started as a vegetable products business?,"The company that started as a vegetable products business is Wipro, which was founded in 1945 as Western India Vegetable Products before transitioning to information technology in the 1980s.",1.0,1260.338700027205,0.00012123
+4,drift,in_domain,Where is Wipro headquartered?,"Wipro is headquartered in Bengaluru, India.",1.0,1088.4411999722943,9.821999999999999e-05
+4,drift,in_domain,Who leads HCLTech?,"HCLTech is led by C Vijayakumar, who serves as the chief executive officer.",1.0,1217.8009999915957,0.00010122
+4,drift,in_domain,When did Mohit Joshi become CEO of Tech Mahindra?,Mohit Joshi became the chief executive officer of Tech Mahindra in December 2023.,1.0,1306.9105999893509,0.00011952999999999999
+4,drift,in_domain,How many employees does TCS have?,"TCS employs approximately 600,000 people.",1.0,981.5902000409551,0.00010350999999999999
+4,drift,in_domain,Where is TCS headquartered?,"TCS is headquartered in Mumbai, India.",1.0,948.4481000108644,9.491999999999999e-05
+4,drift,in_domain,Which company is part of the Tata Group?,Tata Consultancy Services (TCS) is part of the Tata Group.,1.0,1068.3193000149913,0.00010173
+4,drift,in_domain,What is the headquarters of Tech Mahindra?,"The headquarters of Tech Mahindra is located in Pune, India.",1.0,1057.8254999709316,0.00011434999999999999
+4,drift,in_domain,Who is the chief executive of Infosys?,The chief executive of Infosys is Salil Parekh.,1.0,1155.1930000423454,0.00011028000000000001
+4,drift,in_domain,Which company was founded in 1945?,"Wipro was founded in 1945. Initially established as Western India Vegetable Products, it later transitioned to focus on information technology in the 1980s.",1.0,1400.4210999701172,0.00013247999999999998
+4,drift,in_domain,What sectors does TCS serve?,"TCS serves a variety of sectors including banking, insurance, retail, manufacturing, telecommunications, healthcare, travel, and the public sector.",1.0,1138.5440000449307,0.00010619000000000001
+4,drift,in_domain,Which company was founded in 1976?,HCLTech was founded in 1976.,0.0,1265.8039000234567,0.00011328
+5,drift,out_of_domain,Who won the FIFA World Cup in 2022?,"This profile does not provide information on sports results, including the FIFA World Cup. Therefore, I cannot answer who won the FIFA World Cup in 2022.",1.0,1488.2607000181451,0.00012622
+5,drift,out_of_domain,What is the boiling point of water at sea level?,"The boiling point of water at sea level is 100 degrees Celsius (212 degrees Fahrenheit). This temperature can vary slightly with changes in atmospheric pressure, but at standard atmospheric pressure, it remains at this point.",0.0,1292.4080999800935,0.00013326999999999998
+5,drift,out_of_domain,Give me a recipe for banana bread.,"I'm unable to provide a recipe for banana bread as the context does not include culinary information. However, you can easily find a variety of banana bread recipes online or in cookbooks that typically include ingredients like ripe bananas, flour, sugar, eggs, and baking soda.",1.0,2028.0440000351518,0.00014775999999999998
+5,drift,out_of_domain,Who wrote the novel Pride and Prejudice?,"The novel ""Pride and Prejudice"" was written by Jane Austen. It was first published in 1813 and is considered one of her most famous works.",0.0,1608.9255000115372,0.00011015
+5,drift,out_of_domain,What is the capital of Australia?,The capital of Australia is Canberra.,0.0,1380.485400033649,0.00010499000000000001
+5,drift,in_domain,Which group does Tech Mahindra belong to?,Tech Mahindra belongs to the Mahindra Group.,1.0,1258.7671999935992,0.0001121
+5,drift,in_domain,Compare the founding years of TCS and Infosys.,"Tata Consultancy Services (TCS) was founded in 1968, while Infosys was established in 1981. This makes TCS 13 years older than Infosys.",0.6666666666666666,1530.3968000225723,0.00012367
+5,drift,in_domain,Which of these companies is headquartered in Pune?,Tech Mahindra is headquartered in Pune.,1.0,1022.7721999981441,0.00011448
+5,drift,in_domain,Which company started as a vegetable products business?,"The company that started as a vegetable products business is Wipro, which was founded in 1945 as Western India Vegetable Products before transitioning to information technology in the 1980s.",1.0,1302.6485999580473,0.00012123
+5,drift,in_domain,Where is Wipro headquartered?,"Wipro is headquartered in Bengaluru, India.",1.0,1089.7654999862425,9.821999999999999e-05
+5,drift,in_domain,Who leads HCLTech?,"HCLTech is led by C Vijayakumar, who serves as the chief executive officer.",1.0,1385.7301999814808,0.00010122
+5,drift,in_domain,When did Mohit Joshi become CEO of Tech Mahindra?,Mohit Joshi became the chief executive officer of Tech Mahindra in December 2023.,1.0,1114.3277999944985,0.00011952999999999999
+5,drift,in_domain,How many employees does TCS have?,"TCS employs approximately 600,000 people.",1.0,982.5613000430167,0.00010350999999999999
+5,drift,in_domain,Where is TCS headquartered?,"TCS is headquartered in Mumbai, India.",1.0,993.6356999678537,9.491999999999999e-05
+5,drift,in_domain,Which company is part of the Tata Group?,Tata Consultancy Services (TCS) is part of the Tata Group.,1.0,1375.3296000068076,0.00010173
+5,drift,in_domain,What is the headquarters of Tech Mahindra?,"The headquarters of Tech Mahindra is located in Pune, India.",1.0,1105.5716999690048,0.00011434999999999999
+5,drift,in_domain,Who is the chief executive of Infosys?,The chief executive of Infosys is Salil Parekh.,1.0,1101.076600025408,0.00011028000000000001
+5,drift,in_domain,Which company was founded in 1945?,Wipro was founded in 1945 as Western India Vegetable Products. It later transitioned to focus on information technology in the 1980s.,1.0,1261.1081000068225,0.00013023
+5,drift,in_domain,What sectors does TCS serve?,"TCS serves a variety of sectors including banking, insurance, retail, manufacturing, telecommunications, healthcare, travel, and the public sector.",1.0,4542.022900015581,0.00010619000000000001
+5,drift,in_domain,Which company was founded in 1976?,HCLTech was founded in 1976.,1.0,1258.7949000298977,0.00011328
