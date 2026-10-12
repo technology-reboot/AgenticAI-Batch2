@@ -1,0 +1,24 @@
+ticker,company_name,sector,shares,cost_basis,price_stub,purchase_date
+ADANIENT,Adani Enterprises,,395,"₹939,013.75","₹2,837.52","Dec 20, 2021"
+LT,Larsen & Toubro,Industrials,484,"₹600,890.84","₹1,191.01",08/04/2021
+RELIANCE,Reliance Industries,Energy,53,"₹85,872.72","₹2,107.96",2023-09-15
+BHARTIARTL,Bharti Airtel,Telecom,277,"₹675,384.17","₹2,977.87",16/07/2021
+ONGC,Oil & Natural Gas Corp,,66,"₹157,683.90","₹2,460.27",28/12/2023
+SUNPHARMA,Sun Pharma,Healthcare,318,"₹380,464.74","₹1,534.52",13/06/2023
+TCS,Tata Consultancy Services,IT,351,"₹163,386.99",₹643.74,"Jul 28, 2023"
+TITAN,Titan Company,Consumer Durables,404,"₹585,012.20","₹1,305.89","Nov 02, 2021"
+HINDUNILVR,Hindustan Unilever,FMCG,41,"₹119,824.96","₹3,338.05","Jul 30, 2021"
+INFY,Infosys,IT,361,"₹209,083.98",₹588.02,01/10/2023
+MARUTI,Maruti Suzuki,Auto,121,"₹289,659.48","₹2,408.26","Jul 25, 2021"
+RELIANCE,Reliance Industries,Energy,53,"₹85,872.72","₹2,107.96",2023-09-15
+HDFCBANK,HDFC Bank,Financials,191,"₹621,640.06","₹3,745.16","May 29, 2022"
+ICICIBANK,ICICI Bank,Financials,277,"₹252,416.25",₹991.63,"Jul 20, 2022"
+NTPC,NTPC Limited,Energy,48,"₹109,262.88","₹2,475.50",2023-09-04
+TATAMOTORS,Tata Motors,Auto,282,"₹579,588.96","₹1,639.82",2022-08-09
+ONGC,Oil & Natural Gas Corp,,66,"₹157,683.90","₹2,460.27",28/12/2023
+ADANIENT,Adani Enterprises,,395,"₹939,013.75","₹2,837.52","Dec 20, 2021"
+SBIN,State Bank of India,Financials,391,"₹313,597.64",₹823.46,2022-09-28
+ASIANPAINT,Asian Paints,Materials,399,"₹233,510.76",₹604.55,2021-08-30
+WIPRO,Wipro,IT,322,"₹263,940.18",₹578.01,"Jun 28, 2021"
+ULTRACEMCO,UltraTech Cement,,284,"₹331,777.32",₹842.96,20/03/2022
+ITC,ITC Limited,FMCG,353,"₹1,200,849.52","₹4,508.07","Mar 29, 2022"
